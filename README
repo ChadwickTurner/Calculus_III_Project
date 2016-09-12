@@ -1,0 +1,9 @@
+Instructions:
+
+To compile, execute:
+	javac *.java
+
+To run, execute:
+	java Driver
+
+Follow the instructions on the command line to test the features implemented.
